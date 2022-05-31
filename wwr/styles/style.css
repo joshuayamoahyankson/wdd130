@@ -137,3 +137,18 @@ footer .social img{
 main section img {
     box-sizing: border-box;
 }
+.red1{
+    width : 100%;
+
+}
+.blue{
+    width: 100%;
+}
+.green1{
+    width: 200px;
+    height: 200px;
+}
+.yellow1{
+    width: 200;
+    height: 200;
+}
