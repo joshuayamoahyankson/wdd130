@@ -216,6 +216,52 @@ nav {
     opacity: .6;
     transform: scale(1.1);
 }
+#align{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+
+}
+
+.wide{
+    width: 30%;
+    height: 400px;
+    border-radius: 20px;
+    
+    
+   
+   
+
+}
+.rap{
+    width: 30%;
+    height: 400px;
+    border-radius: 20px;
+    
+  
+    
+
+}
+.raft{
+    margin: 20px;
+    width: 200px;
+    border-radius: 100px;
+    float: left;
+    margin-right: 500px;
+}
+
+footer .sociallinks img{
+    
+        padding-top: 15px;
+
+}
+#rafting11{
+    float: inline-start;
+}
+#rafting48{
+    float: inline-end;
+}
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
