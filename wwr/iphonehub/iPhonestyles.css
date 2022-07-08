@@ -6,23 +6,13 @@
 #content{
     margin: 0 auto;
 }
-.jobabslogo{
+.jobabslogo img{
     margin-top: 10px;
     border-radius: 100px;
     border-radius: 50%;
-    padding-left: 10px;
-    
-    
-    
+    padding-left: 10px;  
 }
-header a {
-    margin-top: -20px;
-    width: 200px;
-    border-radius: 100px;
-    width: 200px;
-    height: 150px;
 
-}
 nav {
     width: 100%;
     margin: 25px 0;
@@ -33,31 +23,26 @@ nav {
     position:relative; left:80px; top:-150px;
     display: flex;
     justify-content: space-around;
-    font-family:'Charis SIL;', Courier, monospace
-    
+    font-family:'Charis SIL;', Courier, monospace 
 }
 header{
     background-color: #62B6CB;
 }
 #stage{
     float:left;
-
     padding: 0 20px 20px 0;
     display: flex;
     justify-content: space-between;
     max-width: 400px;
     margin: 0 auto;
-    
 }
 #stage1{
     float: right;
-    padding: 0 20px 20px 0;
-   
+    padding: 0 20px 20px 0;  
 }
 .model{
     float: left;
     padding: 0 20px 20px 0;
-    
 }
 .model1{
     float: right;
@@ -84,6 +69,7 @@ body {
     justify-content: end;
     gap: 10px;
     align-content:space-around;
+    
 }
 footer{
     display: flex;
@@ -94,11 +80,11 @@ footer{
 }
 footer a{
     background-color: #396E94;
-    text-decoration: none;
 
 }
 footer a:hover{
-    text-decoration:dashed;
+    text-decoration: double underline;
+  
 }
 footer h3{
     color: white;
@@ -107,3 +93,65 @@ nav a:hover{
     text-decoration:dashed;
     color:white;
 }
+
+.securitylogo img{
+    margin: 20px;
+    padding: 10px;
+    
+}
+.navigation a{
+    display: flex;
+    justify-content: space-evenly;
+}
+.float-left1{
+    float: left;
+    padding: 17px;
+    border-radius: 30px;
+    margin-left:-12px ;
+    margin-top: -19px;
+}
+.float-left2{
+    float: left;
+    padding: 17px;
+    width: 612px;
+    border-radius: 30px;
+    margin-left: -19px;
+   
+}
+#alignment {
+    text-align:left; 
+    
+}
+#second-target{
+    display: flex;  
+}
+header img{
+    margin: 20px;
+    margin-bottom: -25px;
+    border-radius: 25px;
+}
+footer h3 a:hover{
+    color: aqua; 
+      
+}
+footer h3:hover{
+    color: aqua;
+}
+
+footer h3 a{
+    color: white;
+}
+div a{
+    text-align:center;
+    padding: 10px;
+}
+header a:hover:visited{
+    color: gray;
+}
+header a{
+    text-shadow: 0px 0.45px;
+}
+table{
+    border-spacing: 10px;
+}
+
