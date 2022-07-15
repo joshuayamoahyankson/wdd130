@@ -154,4 +154,27 @@ header a{
 table{
     border-spacing: 10px;
 }
+#target{
+    float: left;
+}
+.app{
+    float: right;
+    border-radius: 50px;
+    padding-left: 6.5px;
+    padding-right: 10px;
+}
+#subpage2_images{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
 
+}
+.image1{
+    
+    border-radius: 50px;
+    
+}
+.image2{
+    border-radius: 50px;
+}
